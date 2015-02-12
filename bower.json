@@ -1,0 +1,12 @@
+{
+  "name": "elixir-4.2-test",
+  "version": "0.0.1",
+  "authors": [
+    "Boyan Yordanov <specterbg@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}
