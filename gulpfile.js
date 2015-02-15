@@ -4,8 +4,8 @@ var elixir = require('laravel-elixir');
 
 // elixir.config.assetsDir = 'app/assets/';
 // elixir.config.cssOutput = 'public_html/css';
-// elixir.config.jsOutput: 'public/js',
-// elixir.config.bowerDir: 'vendor/bower_components',
+// elixir.config.jsOutput = 'public/js';
+// elixir.config.bowerDir = 'vendor/bower_components';
 
 /*
  |--------------------------------------------------------------------------
